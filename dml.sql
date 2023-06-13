@@ -1,4 +1,4 @@
-INSERT INTO campaign(cf_id, contact_id, company_name, description, goal, pledged, outcome, backers_count, country, currency, launchd_date, end_date, category_id, subcategory_id)
+INSERT INTO campaign(cf_id, contact_id, company_name, details, goal, pledged, outcome, backers_count, country, currency, launchd_date, end_date, category_id, subcategory_id)
 VALUES (
 (147, 4661, 'Baldwin, Riley and Jackson', 'Pre-emptive tertiary standardization', 100.0, 0.0, 'failed', 0, 'CA', 'CAD', '2020-02-13', '2021-03-01', 'cat1', 'subcat1'),
 (1621, 3765, 'Odom Inc', 'Managed bottom-line architecture', 1400.0, 14560.0, 'successful', 158, 'US', 'USD', '2021-01-25', '2021-05-25', 'cat2', 'subcat2'),
